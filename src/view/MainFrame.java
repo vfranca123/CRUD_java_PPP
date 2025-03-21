@@ -14,7 +14,7 @@ public class MainFrame extends JFrame {
 
         BancoDeDeDados.cria();
 
-        String url = "jdbc:derby:MeuBancoDeDados";;
+        String url = "jdbc:derby:MeuBancoDeDados";
         // Configuração da janela
         setTitle("Sistema de Rotas Swing");
         setSize(800, 500);

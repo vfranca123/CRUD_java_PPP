@@ -9,7 +9,7 @@ public class CriarBancoETabela {
 
     public static void cria(){
         TableProduto tabelaProduto = new TableProduto();
-        String urls ="jdbc:derby:MeuBancoDeDado;create=true";
+        String urls ="jdbc:derby:MeuBancoDeDados;create=true";
         try(Connection conn = DriverManager.getConnection(urls)){
             if(conn != null){
                 System.out.println("conecxão executada com sucesso");
