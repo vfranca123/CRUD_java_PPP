@@ -1,0 +1,20 @@
+----------------------------------------------------------------
+Fri Mar 21 16:32:05 GMT-03:00 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0195-ba30-f55c-00000e8f8338 
+on database directory C:\Users\vitor.franca\Desktop\PPP\CRUD_java_PPP\MeuBancoDeDado  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/vitor.franca/.m2/repository/org/apache/derby/derby/10.8.2.2/derby-10.8.2.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=24+36-3646
+user.dir=C:\Users\vitor.franca\Desktop\PPP\CRUD_java_PPP
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 21 16:32:05 GMT-03:00 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a02ac013-0195-ba30-f55c-00000e8f8338 
+on database directory C:\Users\vitor.franca\Desktop\PPP\CRUD_java_PPP\MeuBancoDeDados  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/vitor.franca/.m2/repository/org/apache/derby/derby/10.8.2.2/derby-10.8.2.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=24+36-3646
+user.dir=C:\Users\vitor.franca\Desktop\PPP\CRUD_java_PPP
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
